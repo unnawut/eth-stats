@@ -1,0 +1,13 @@
+[package]
+name = "eth_stats"
+version = "0.1.0"
+authors = ["Unnawut Leepaisalsuwanna <unnawut@unnawut.com>"]
+edition = "2020"
+
+[dependencies]
+tokio = { version = "0.2", features = ["macros"] }
+reqwest = { version = "0.10", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_derive = { version = "1.0"}
+serde_json = { version = "1.0"}
+web3 = { version = "0.10.0" }
