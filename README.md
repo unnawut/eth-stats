@@ -32,3 +32,7 @@ A basic Ethereum statistical analysis primarily made for me to learn Rust.
       NUM_BLOCKS=1000 \
       make run
     ```
+
+## Lesson learnt
+
+https://twitter.com/fasterthanlime/status/1248241287083540481
